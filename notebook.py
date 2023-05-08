@@ -1,6 +1,7 @@
 #用tkinter创建一个桌面应用程序
 # -*- coding:utf-8 -*-
 from tkinter import *
+from tkinter.ttk import *
 import tkinter.messagebox
 import tkinter.filedialog
 import tkinter.scrolledtext
